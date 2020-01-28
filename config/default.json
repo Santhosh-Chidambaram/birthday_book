@@ -1,0 +1,4 @@
+{
+    "mongooseURI":"mongodb://localhost:27017/birthdayBook",
+    "jwtSecret" :"secret"
+}
